@@ -67,3 +67,13 @@ nav a:hover {
     font-size: 25px;
     font-weight: bold;
 }
+footer {
+    text-align: center;
+    background: url(img/bg.jpg);
+    padding: 40px 0;
+}
+.copyright-PCRJ {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
