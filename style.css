@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+.titulo-principal-PCRJ {
+    padding-left:20px;
+}
+#banner-PCRJ {
+    width: 100%
+}
+.principal-PCRJ {
+    background: #CCCCCC;
+    padding: 30px
+}
+p {
+    text-align: center;
+}
+#missao-PCRJ strong {
+    color: #0000FF;
+    font-size: 20px
+}
+.beneficios-PCRJ {
+    background: #FFFFFF;
+    padding: 20px
+}
+
+.sobre-barbearia-PCRJ {
+    text-align: center;
+}
+.itens-PCRJ {
+    font-style: italic
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+}
+.imagemBeneficios-PCRJ {
+    width: 50%;
+}
